@@ -5,36 +5,35 @@ permalink: /about/
 toc: false
 ---
 
-## 👋 Olá! Seja bem-vindo(a)!
+# 👋 Sobre
 
-Sou um(a) apaixonado(a) por tecnologia, aprendizado contínuo e compartilhamento de conhecimento. Este blog foi criado para registrar minha jornada profissional, experiências em projetos, dicas de programação e reflexões sobre temas que me inspiram.
+Olá! Seja bem-vindo(a) ao meu blog.
 
-## 🧠 Sobre Mim
+Este espaço foi criado para compartilhar minha jornada com tecnologia, projetos de dados, dicas de programação e reflexões sobre carreira e aprendizado.
 
-- 🎓 Formação: Administração, Psicologia e Letras  
-- 💼 Especialização: Gestão de Pessoas com foco em Treinamento e Desenvolvimento  
-- 🌱 Atualmente estudando: Python, Data Analytics e Desenvolvimento Web  
-- 🌍 Idiomas: Português (nativo), Inglês (intermediário, em progresso)  
-- 💡 Interesses: Educação, Inteligência Artificial, Análise de Dados, Escrita Criativa
+## 👤 Quem Sou
 
-## 💻 Sobre Este Blog
+- 🎓 Formado(a) em Administração, também estudando Psicologia e Letras  
+- 💼 Especialista em Gestão de Pessoas com foco em T&D  
+- 💡 Apaixonado(a) por educação, tecnologia e análise de dados  
+- 📚 Estudando Python, Data Analytics e ferramentas como Superset, Power BI, Qlik e Spark
 
-Este blog utiliza o tema [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) para Jekyll — um tema limpo, rápido e altamente personalizável.
+## 🔧 Sobre o Blog
 
-Aqui você encontrará:
+Este blog é desenvolvido com [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy), um tema moderno para Jekyll focado em desempenho, estilo e simplicidade.
 
-- Tutoriais e dicas de **desenvolvimento**
-- Análises e **projetos com dados**
-- Reflexões sobre **carreira** e aprendizado
-- Recursos e ideias para quem também está nessa jornada de crescimento pessoal e profissional
+Você encontrará aqui:
 
-## 📫 Fale Comigo
+- 📊 Tutoriais de análise de dados
+- 💻 Projetos de aprendizado
+- 🧠 Reflexões sobre educação e carreira
+- 📚 Recursos para quem está em constante aprendizado
 
-Sinta-se à vontade para entrar em contato:
+## 📬 Contato
 
-- [GitHub](https://github.com/seu-usuario)
-- [LinkedIn](https://linkedin.com/in/seu-perfil)
-- Email: seuemail@exemplo.com
+- GitHub: [github.com/seuusuario](https://github.com/seuusuario)  
+- LinkedIn: [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)  
+- Email: [seuemail@exemplo.com](mailto:seuemail@exemplo.com)
 
 ---
 
