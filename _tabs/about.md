@@ -4,25 +4,62 @@ title: About
 permalink: /about/
 ---
 
-> “Simplicity is the ultimate sophistication.” – Leonardo da Vinci
+## 👨‍💻 About Me
 
-Welcome to my personal blog!
+Hi! I'm **Luís Eduardo Melonio Correia**, a Data Analyst with solid experience in **ETL processes**, **data modeling**, and **strategic data visualization**.
 
-I'm a lifelong learner passionate about technology, writing, and data.  
-This site is a collection of my thoughts, technical notes, and personal projects.
+My professional journey began as a *Business Intelligence* intern, where I dove into the behind-the-scenes of data structuring. Since then, I’ve grown technically and taken on increasingly complex challenges, focusing on **automation**, **operational efficiency**, and **insights that drive real business impact**.
 
-Here, you'll find:
+---
 
-- ✍️ Posts on programming, data, and tools I enjoy using  
-- 🛠️ Tutorials and technical experiments  
-- 📚 Notes and reflections from my learning journey  
-- 💡 Ideas and resources to inspire others
+## 🧠 Current Role
 
-This site is built using the [Chirpy theme](https://github.com/cotes2020/jekyll-theme-chirpy) for Jekyll.
+I'm currently a **Mid-Level Data Analyst**, with hands-on experience in building **scalable data pipelines**, orchestrating workflows with **Apache Airflow**, and developing dashboards using tools such as:
 
-Thanks for stopping by!  
-Feel free to reach out:
+- Qlik Sense  
+- Power BI  
+- Apache Superset  
+- Tableau  
 
-- GitHub: [@yourusername](https://github.com/yourusername)  
-- LinkedIn: [yourname](https://linkedin.com/in/yourname)  
-- Email: [your@email.com](mailto:your@email.com)
+---
+
+## 💡 Skills & Tools
+
+**Languages & Technologies:**
+
+- SQL  
+- Python (Pandas)  
+- AWS (Athena, S3, Glue)
+
+I apply these tools to optimize data loads and improve the reliability of analytical processes.
+
+---
+
+## 🚀 Experience Highlights
+
+Throughout my career, I’ve contributed to projects across various industries and contexts, always committed to:
+
+- Fostering a **data-driven culture**  
+- Collaborating with **cross-functional teams** (Product, Engineering, Design)  
+- Driving **business impact** through actionable insights
+
+---
+
+## 🔄 Methodologies
+
+I'm experienced with **agile workflows** and have directly worked on:
+
+- A/B testing  
+- Funnel analysis  
+- Segmentation  
+- Cohort analysis  
+
+These techniques help ensure the **continuous improvement of user experience** and **product performance**.
+
+---
+
+## 🌱 What Drives Me
+
+I’m fueled by **curiosity**, a passion for **lifelong learning**, and a desire to **turn data into decisions**.
+
+> In this portfolio, you’ll find projects that reflect my journey — always focused on **clarity**, **value**, and **impact**.
