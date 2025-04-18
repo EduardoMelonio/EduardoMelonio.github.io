@@ -2,39 +2,27 @@
 layout: page
 title: About
 permalink: /about/
-toc: false
 ---
 
-# 👋 Sobre
+> “Simplicity is the ultimate sophistication.” – Leonardo da Vinci
 
-Olá! Seja bem-vindo(a) ao meu blog.
+Welcome to my personal blog!
 
-Este espaço foi criado para compartilhar minha jornada com tecnologia, projetos de dados, dicas de programação e reflexões sobre carreira e aprendizado.
+I'm a lifelong learner passionate about technology, writing, and data.  
+This site is a collection of my thoughts, technical notes, and personal projects.
 
-## 👤 Quem Sou
+Here, you'll find:
 
-- 🎓 Formado(a) em Administração, também estudando Psicologia e Letras  
-- 💼 Especialista em Gestão de Pessoas com foco em T&D  
-- 💡 Apaixonado(a) por educação, tecnologia e análise de dados  
-- 📚 Estudando Python, Data Analytics e ferramentas como Superset, Power BI, Qlik e Spark
+- ✍️ Posts on programming, data, and tools I enjoy using  
+- 🛠️ Tutorials and technical experiments  
+- 📚 Notes and reflections from my learning journey  
+- 💡 Ideas and resources to inspire others
 
-## 🔧 Sobre o Blog
+This site is built using the [Chirpy theme](https://github.com/cotes2020/jekyll-theme-chirpy) for Jekyll.
 
-Este blog é desenvolvido com [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy), um tema moderno para Jekyll focado em desempenho, estilo e simplicidade.
+Thanks for stopping by!  
+Feel free to reach out:
 
-Você encontrará aqui:
-
-- 📊 Tutoriais de análise de dados
-- 💻 Projetos de aprendizado
-- 🧠 Reflexões sobre educação e carreira
-- 📚 Recursos para quem está em constante aprendizado
-
-## 📬 Contato
-
-- GitHub: [github.com/seuusuario](https://github.com/seuusuario)  
-- LinkedIn: [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)  
-- Email: [seuemail@exemplo.com](mailto:seuemail@exemplo.com)
-
----
-
-> “Educar a mente sem educar o coração não é educação.” – Aristóteles
+- GitHub: [@yourusername](https://github.com/yourusername)  
+- LinkedIn: [yourname](https://linkedin.com/in/yourname)  
+- Email: [your@email.com](mailto:your@email.com)
