@@ -56,8 +56,8 @@ df = pd.read_csv(f"{path}/waze_dataset.csv")
 # Visualização inicial
 df.head()
 ```
-![Visualização inicial do dataset](/assets/imagens/2025-04-21/bloco_1.jpg){: width="100%" .center }
 ---
+![Visualização inicial do dataset](/assets/imagens/2025-04-21/bloco_1.jpg){: width="100%" .center }
 
 ## Compreensão das Variáveis
 
