@@ -84,7 +84,7 @@ df.info()
 # Verificação de valores nulos
 df.isnull().sum()
 ```
-![Visualização inicial do dataset](https://imgur.com/gallery/pandas-result-vb2l5dk)
+![Visualização inicial do dataset](https://i.imgur.com/abc1234.jpg)
 Valores ausentes podem impactar negativamente a performance do modelo. Com base nessa análise, definiremos a estratégia mais adequada para tratá-los (remoção, imputação ou transformação).
 
 ---
@@ -96,7 +96,7 @@ Antes de construir os modelos, é importante avaliar se existe desbalanceamento 
 ```python
 df['label'].value_counts(normalize=True)
 ```
-![Visualização inicial do dataset](https://imgur.com/a/lFU4zzd)
+![Visualização inicial do dataset](https://i.imgur.com/lFU4zzd.jpg)
 
 Desequilíbrios entre classes podem levar o modelo a privilegiar previsões da classe majoritária. Caso identificado, podemos aplicar técnicas como oversampling, undersampling ou uso de algoritmos específicos como SMOTE.
 
