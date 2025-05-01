@@ -1,9 +1,10 @@
 ---
-title: "[2/10] Jornada dos Dados – Exploração e Preparação de Dados para Machine Learning"
-date: 2025-04-30 00:00:00 +0800
+title: "[2/10] Jornada dos Dados – Modelagem Preditiva com Machine Learning"
+date: 2025-04-23 00:00:00 +0800
+layout: post
 categories: [Data Analyst, Machine Learning]
-tags: [machine learning, análise de dados, preparação de dados, churn]
-image: https://i.imgur.com/iXs7Th6.png
+tags: [machine learning, modelo preditivo, random forest, churn]
+image: /assets/images/jornada-parte2-preview.png
 ---
 
 
