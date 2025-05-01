@@ -4,7 +4,7 @@ date: 2025-04-23 00:00:00 +0800
 layout: post
 categories: [Data Analyst, Machine Learning]
 tags: [machine learning, modelo preditivo, random forest, churn]
-image: /assets/images/jornada-parte2-preview.png
+image: https://i.imgur.com/iXs7Th6.png
 ---
 
 
