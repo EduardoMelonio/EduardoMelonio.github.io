@@ -85,6 +85,7 @@ df.info()
 df.isnull().sum()
 ```
 ![Visualização inicial do dataset](https://i.imgur.com/YpWYLgE.png)
+
 Valores ausentes podem impactar negativamente a performance do modelo. Com base nessa análise, definiremos a estratégia mais adequada para tratá-los (remoção, imputação ou transformação).
 
 ---
