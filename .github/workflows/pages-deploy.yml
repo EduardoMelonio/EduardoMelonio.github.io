@@ -46,9 +46,23 @@ jobs:
           bundler-cache: true
 
       - name: Build site
-        run: bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"
+        id: build
+        shell: bash
+        run: |
+          set -o pipefail
+          bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}" 2>&1 | tee build.log
         env:
           JEKYLL_ENV: "production"
+
+      - name: Report build failure
+        if: failure() && steps.build.outcome == 'failure'
+        shell: bash
+        run: |
+          message="$(tail -n 25 build.log)"
+          message="${message//'%'/'%25'}"
+          message="${message//$'\r'/'%0D'}"
+          message="${message//$'\n'/'%0A'}"
+          echo "::error title=Jekyll build failed::${message}"
 
       - name: Test site
         run: |
