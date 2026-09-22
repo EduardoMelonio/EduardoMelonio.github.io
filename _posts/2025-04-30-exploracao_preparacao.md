@@ -1,8 +1,8 @@
 ---
 title: "[2/10] Jornada dos Dados – Modelagem Preditiva com Machine Learning"
-date: 2025-04-23 00:00:00 +0800
+date: 2025-04-23 00:00:00 -0300
 layout: post
-categories: [Data Analyst, Machine Learning]
+categories: [Análise de Dados, Machine Learning]
 tags: [machine learning, modelo preditivo, random forest, churn]
 image: https://i.imgur.com/iXs7Th6.png
 ---

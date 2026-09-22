@@ -6,40 +6,41 @@ theme: jekyll-theme-chirpy
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: en
+lang: pt-BR
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: America/Sao_Paulo
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: "Luis Eduardo" # the main title
+title: "Luis Eduardo Melonio Correia" # the main title
 
-tagline: "Qlik Analyst | Superset | Airflow | Python E.T. | SQL | PowerBI | Tableau" # it will display as the subtitle
+tagline: "Analista de Dados Sênior | Engenharia de Dados, BI e Analytics" # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Portfólio profissional com projetos, pesquisas e experiência em ETL,
+  engenharia de dados, Business Intelligence, AWS, SQL e Python.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://EduardoMelonio.github.io"
+url: "https://eduardomelonio.github.io"
 
 github:
   username: EduardoMelonio # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username:
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Luis Eduardo Melonio Correia
+  email: luiseduardo_ds@icloud.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://www.linkedin.com/in/luiseduardocorreia
+    - https://github.com/EduardoMelonio
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -95,10 +96,10 @@ theme_mode: # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn: "https://chirpy-img.netlify.app"
+cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://media.licdn.com/dms/image/v2/D4D03AQGyem5fU8G6pQ/profile-displayphoto-shrink_800_800/B4DZZoGF13GcAc-/0/1745503149961?e=1751500800&v=beta&t=CMCEa3yHTwiGF4VgiNrJlHGQeMmQg0XSHJY-SFu1VeY"
+avatar: "/assets/imagens/perfil.jpg"
 
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.

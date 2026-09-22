@@ -1,65 +1,76 @@
 ---
-layout: page
-title: About
+title: Sobre
+icon: fas fa-user
+order: 2
 permalink: /about/
 ---
 
-## 👨‍💻 About Me
+## Olá, sou Luis Eduardo Melonio Correia
 
-Hi! I'm **Luís Eduardo Melonio Correia**, a Data Analyst with solid experience in **ETL processes**, **data modeling**, and **strategic data visualization**.
+Sou **Analista de Dados Sênior**, com experiência em pipelines ETL, arquitetura
+de dados, modelagem e produtos analíticos para tomada de decisão. Conecto
+necessidades de negócio à implementação de soluções claras, documentadas e
+orientadas a resultados.
 
-My professional journey began as a *Business Intelligence* intern, where I dove into the behind-the-scenes of data structuring. Since then, I’ve grown technically and taken on increasingly complex challenges, focusing on **automation**, **operational efficiency**, and **insights that drive real business impact**.
+**Localização:** Aparecida de Goiânia, GO, Brasil. Estou disponível para
+oportunidades remotas no Brasil e no exterior.
 
----
+## Experiência profissional
 
-## 🧠 Current Role
+### Sodexo
 
-I'm currently a **Mid-Level Data Analyst**, with hands-on experience in building **scalable data pipelines**, orchestrating workflows with **Apache Airflow**, and developing dashboards using tools such as:
+Atuo com áreas de RH e HSE, desenvolvendo e aprimorando soluções como:
 
-- Qlik Sense  
-- Power BI  
-- Apache Superset  
-- Tableau  
+- automação de relatórios e produtos analíticos;
+- integração de dados em JSON com Python;
+- trabalho com bancos de dados Oracle;
+- arquitetura de dados no padrão Medallion;
+- migração de dashboards do Tableau para o Power BI;
+- tratamento de bases com mais de **47 mil colaboradores**;
+- iniciativas voltadas à qualidade e governança dos dados.
 
----
+### Desq Tecnologia
 
-## 💡 Skills & Tools
+Em minha experiência anterior, desenvolvi pipelines ETL/ELT e dashboards,
+implementei cargas incrementais D-1 e participei de projetos na AWS utilizando
+Glue, S3 e Athena. Uma dessas iniciativas reduziu em **30% o tempo total de
+carga**.
 
-**Languages & Technologies:**
+Meu trabalho valoriza documentação, desempenho, rastreabilidade e comunicação
+clara com as áreas de negócio.
 
-- SQL  
-- Python (Pandas)  
-- AWS (Athena, S3, Glue)
+## Competências
 
-I apply these tools to optimize data loads and improve the reliability of analytical processes.
+### Dados e Business Intelligence
 
----
+- Power BI — uso recorrente — e Tableau
+- Dashboards, produtos analíticos e visualização de dados
+- Modelagem e análise de dados
 
-## 🚀 Experience Highlights
+### Engenharia e automação de dados
 
-Throughout my career, I’ve contributed to projects across various industries and contexts, always committed to:
+- Pipelines ETL/ELT e cargas incrementais D-1
+- Arquitetura Medallion
+- Integrações em JSON, APIs e automação de processos
+- Qualidade, governança, documentação e rastreabilidade
 
-- Fostering a **data-driven culture**  
-- Collaborating with **cross-functional teams** (Product, Engineering, Design)  
-- Driving **business impact** through actionable insights
+### Linguagens, bancos e nuvem
 
----
+- Python e Pandas
+- SQL e Oracle
+- AWS Glue, S3 e Athena
 
-## 🔄 Methodologies
+### Análise e experimentação
 
-I'm experienced with **agile workflows** and have directly worked on:
+- Análise exploratória e preparação de dados
+- Machine Learning e Inteligência Artificial aplicada
 
-- A/B testing  
-- Funnel analysis  
-- Segmentation  
-- Cohort analysis  
+## Como trabalho
 
-These techniques help ensure the **continuous improvement of user experience** and **product performance**.
+Busco registrar não apenas o resultado de cada iniciativa, mas também o contexto,
+o processo e os aprendizados. Curiosidade, evolução contínua e clareza na
+comunicação orientam minha forma de transformar dados em decisões.
 
----
+## Contato
 
-## 🌱 What Drives Me
-
-I’m fueled by **curiosity**, a passion for **lifelong learning**, and a desire to **turn data into decisions**.
-
-> In this portfolio, you’ll find projects that reflect my journey — always focused on **clarity**, **value**, and **impact**.
+Consulte meus canais profissionais na página [Contato](/contato/).
